@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "FLOWER",
+      "description": "Products relating to the flower of the cannabis plant."
+    },
+    {
+      "name": "TINCTURES",
+      "description": "Liquid extracts of cannabis, often for sublingual use."
+    },
+      {
+      "name": "MERCHANDISE",
+      "description": "Non-consumable cannabis related items."
+    },
+    {
+      "name": "SHO PRODUCTS",
+     "description": "Products that are relating to Solventless Hash Oil."
+    },
+      {
+      "name": "Archive",
+      "description": "Products that are no longer in stock but are still listed."
+    },
+     {
+      "name": "MEDIBLES",
+       "description": "Cannabis-infused food products."
+    },
+      {
+      "name": "LIVE ROSIN",
+       "description": "A type of cannabis concentrate made without solvents."
+    }
+
+  ]
+}

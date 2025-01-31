@@ -1,0 +1,69 @@
+{
+  "subcategories": [
+    {
+      "name": "BULK FLOS",
+      "description": "Cannabis flower sold in bulk quantities.",
+       "category": "FLOWER"
+    },
+    {
+      "name": "Tinctures",
+      "description": "Cannabis tinctures",
+       "category": "TINCTURES"
+    },
+        {
+      "name": "Merchandise",
+      "description": "Non-consumable cannabis related items",
+        "category": "MERCHANDISE"
+    },
+    {
+      "name": "SHO Vape Cartdriges",
+      "description": "Vape cartridges containing Solventless Hash Oil",
+        "category": "SHO PRODUCTS"
+    },
+     {
+      "name": "Pre Roll",
+      "description": "Pre-rolled cannabis cigarettes",
+       "category": "FLOWER"
+    },
+    {
+      "name": "Pops",
+      "description": "Small buds or 'popcorn' cannabis flower",
+         "category": "FLOWER"
+    },
+       {
+      "name": "Shake",
+      "description": "Loose, broken cannabis flower",
+       "category": "FLOWER"
+    },
+     {
+      "name": "Flos",
+     "description":"A  type of cannabis flower product",
+     "category":"FLOWER"
+        },
+       {
+      "name": "PrePack",
+      "description":"Cannabis product sold in pre-packaged quantities.",
+      "category": "FLOWER"
+        },
+        {
+      "name": "SHO Metered Dispenser",
+     "description":"A metered dispensing device for Solventless Hash Oil.",
+      "category": "SHO PRODUCTS"
+        },
+      {
+     "name": "Containers",
+      "description":"A product that is sold within a specific container",
+       "category":"LIVE ROSIN"
+       },
+         {
+      "name": "Eco Star Disposable",
+     "description":"A disposable vape device.",
+       "category": "SHO PRODUCTS"
+    },
+     {
+      "name": "Medibles",
+      "description":"Cannabis-infused edible products.",
+      "category": "MEDIBLES"
+     }
+  ]
+}
